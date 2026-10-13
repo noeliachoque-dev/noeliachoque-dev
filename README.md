@@ -1,176 +1,141 @@
-
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05030A,30:19072B,65:5923A5,100:08050D&text=NOELIA%20CHOQUE&fontSize=48&fontColor=F5EDFF&fontAlignY=40&desc=SYSTEMS%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20AI&descSize=13&descAlignY=60&animation=fadeIn&section=header" alt="Noelia Choque — Systems Engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:10002B,50:6C3BFF,100:D8B4FE&text=Karla%20Noelia%20Choque&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineering%20%7C%20Software%20%7C%20AI&descAlignY=58&descSize=15&animation=fadeIn" alt="Karla Noelia Choque"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Systems+Engineering+Student+%F0%9F%92%BB;Exploring+Software+Development+%F0%9F%92%9C;Discovering+Artificial+Intelligence+%F0%9F%A4%96;Learning%2C+Building+%26+Growing+%E2%9C%A8" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1200&color=C4A1FF&center=true&vCenter=true&width=560&lines=Curious+mind.+Future+engineer.;Learning+to+build+things+that+matter.;My+journey+is+just+getting+started." alt="Animated introduction" />
-
-<br><br>
-
-<sub>BASED IN BOLIVIA · SYSTEMS ENGINEERING STUDENT</sub>
-
-<br><br>
+<br/>
 
 <a href="https://github.com/noeliachoque-dev">
-  <img src="https://img.shields.io/badge/GITHUB-My%20work-17101F?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-noeliachoque--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="TU_URL_DE_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D0815?style=for-the-badge&logo=linkedin&logoColor=C084FC" alt="LinkedIn" />
+<a href="mailto:noelia.choque.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="mailto:noeliachoque.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Say%20hello-17101F?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
+<a href="">
+<img src="https://img.shields.io/badge/LinkedIn-Add%20later-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="TU_URL_DE_INSTAGRAM">
-  <img src="https://img.shields.io/badge/INSTAGRAM-My%20space-17101F?style=for-the-badge&logo=instagram&logoColor=C084FC" alt="Instagram" />
+<a href="">
+<img src="https://img.shields.io/badge/Instagram-Add%20later-D8B4FE?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Based_in-Bolivia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bolivia"/>
+<img src="https://img.shields.io/badge/Community-PyLadies%20Santa%20Cruz-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="PyLadies Santa Cruz"/>
+
+</div>
+
+---
+
+## 💜 About Me
+
+Hi! I'm **Karla Noelia Choque Temo**, a Systems Engineering student from Bolivia 🇧🇴 who is passionate about technology, continuous learning, and discovering new possibilities through software.
+
+I'm building my foundations in programming and exploring artificial intelligence while working toward becoming a professional who can turn ideas into meaningful digital solutions.
+
+- 🎓 **Studying:** Systems Engineering
+- 💻 **Interested in:** Software development and programming
+- 🤖 **Exploring:** Artificial intelligence and generative AI
+- 🐍 **Learning about:** Python and developer tools
+- 💜 **Community:** PyLadies Santa Cruz
+- 🌱 **My mindset:** Learn by doing, grow with others, and keep moving forward.
+
+I believe technology is not just about writing code. It's also about curiosity, solving problems, sharing knowledge, and creating opportunities to grow.
+
+---
+
+## 🚀 What I'm Exploring
+
+<div align="center">
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-Exploring-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://github.com/noeliachoque-dev">
+<img src="https://img.shields.io/badge/GitHub-My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.anthropic.com/">
+<img src="https://img.shields.io/badge/Generative_AI-Exploring-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Generative AI"/>
 </a>
 
 </div>
 
+I'm interested in strengthening my programming foundations, understanding how AI tools work, and discovering how technology can help solve real-world problems.
+
+*Always learning. Always experimenting. Always growing.* ✨
+
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## ✦ About me
-
-I'm **Karla Noelia Choque Temo**, a Systems Engineering student building my path into technology.
-
-I'm curious about how things work, how ideas become software, and how technology can help solve real problems.
-
-I'm here to learn, experiment, challenge myself, and create things that reflect what I discover along the way.
-
-- 🎓 Systems Engineering student
-- 💻 Interested in software development
-- 🐍 Exploring Python and programming fundamentals
-- 🤖 Curious about artificial intelligence
-
-</td>
-<td width="40%" valign="middle">
+## 🐍 Community & Collaboration
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:0B0712,50:35105C,100:13091F&text=THINK%20%2F%2F%20BUILD&fontColor=E9D5FF&fontSize=19&animation=fadeIn" alt="Think and build" />
-
-<br><br>
-
-<sub>Learning today. Creating tomorrow.</sub>
+<a href="https://www.pyladies.com/">
+<img src="https://img.shields.io/badge/PyLadies-Santa%20Cruz-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="PyLadies Santa Cruz"/>
+</a>
 
 </div>
 
-</td>
-</tr>
-</table>
+I'm part of the **PyLadies Santa Cruz community**, a space where I can connect with people interested in Python and technology.
+
+I value communities where people share knowledge, encourage one another, and learn together. Being connected to the tech community is part of the journey I'm building as a Systems Engineering student.
+
+🔗 [Discover PyLadies](https://www.pyladies.com/)
 
 ---
 
-## ⌘ Technologies & interests
+## 📊 My GitHub Dashboard
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Technology interests" />
+<a href="https://github.com/noeliachoque-dev">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=noeliachoque-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
-<br><br>
+<a href="https://github.com/noeliachoque-dev">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliachoque-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" alt="Most used programming languages"/>
+</a>
 
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-7B2CBF?style=flat-square&labelColor=100817" alt="Software development" />
-<img src="https://img.shields.io/badge/EXPLORING-Artificial%20Intelligence-A855F7?style=flat-square&labelColor=100817" alt="Artificial intelligence" />
+<br/>
 
-<br>
-
-<sub>Tools and technologies I'm exploring as I develop my skills.</sub>
+<img src="https://streak-stats.demolab.com?user=noeliachoque-dev&hide_border=true&background=0D1117&ring=A78BFA&fire=E879F9&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## ◈ Featured projects
+## 🌷 A Little More About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` — Learning lab
-
-A space for programming exercises, experiments, and discoveries as I strengthen my technical foundations.
-
-**Status:** Learning in progress.
-
-</td>
-<td width="50%" valign="top">
-
-### `02` — Original projects
-
-A space for future projects where I'll apply what I learn to solve problems and bring my own ideas to life.
-
-**Status:** To be developed.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>These are project directions, not published projects. Real repositories will be featured here as I create them.</sub>
-
-</div>
+- 📚 I enjoy learning new things and challenging myself.
+- 🤝 I believe growing together makes the journey better.
+- 💡 I'm curious about ideas that combine creativity and technology.
+- 🌎 I'm working toward a future where I can contribute to meaningful projects.
+- 💜 I believe small, consistent steps can lead to big changes.
 
 ---
 
-## ◈ Communities & collaboration
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=0:100819,50:35105C,100:100819&text=PyLadies%20Santa%20Cruz&fontColor=E9D5FF&fontSize=25&animation=fadeIn" width="100%" alt="PyLadies Santa Cruz" />
+<a href="https://github.com/noeliachoque-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:noelia.choque.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-**Growing through community.**
+**Thanks for stopping by!** ✨
 
-I'm connected with **PyLadies Santa Cruz**, a community that aligns with my interest in programming, learning, and growing in technology.
+If you're passionate about technology, learning, or building something meaningful, let's connect and grow together. 💜
 
-I value spaces where people can share knowledge, discover new perspectives, and encourage one another.
-
-</div>
-
----
-
-## ⌬ GitHub analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=noeliachoque-dev&show_icons=true&hide_border=true&bg_color=0D0815&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=9333EA" alt="GitHub account statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliachoque-dev&layout=compact&hide_border=true&bg_color=0D0815&title_color=C084FC&text_color=E9D5FF" alt="Most used programming languages" />
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=noeliachoque-dev&theme=transparent&hide_border=true&background=0D0815&ring=C084FC&fire=A855F7&currStreakLabel=E9D5FF&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AAE" alt="GitHub contribution streak" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:6C3BFF,100:D8B4FE&height=120&section=footer" width="100%" alt="Purple gradient footer"/>
 
 </div>
-
-<sub>Statistics reflect publicly available GitHub activity. Panels may be empty when activity is limited or unavailable if an external service is temporarily down.</sub>
-
----
-
-## ♡ Beyond the code
-
-I believe growth comes from curiosity, consistency, and the courage to start before everything is perfect.
-
-My journey combines engineering, learning, creativity, and the desire to turn ideas into something real.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:100819,50:54218A,100:100819&text=LEARN.%20CREATE.%20EVOLVE.&fontColor=E9D5FF&fontSize=21&animation=fadeIn" width="100%" alt="Learn. Create. Evolve." />
-
-<br>
-
-<sub>Not a finished story. A future under construction.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:08050D,50:32105C,100:08050D&section=footer" alt="" />
-
-</div>
-

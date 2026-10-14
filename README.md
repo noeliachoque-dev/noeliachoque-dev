@@ -16,7 +16,7 @@
 <a href="">
 <img src="https://img.shields.io/badge/LinkedIn-Add%20later-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="">
+<a href="www.linkedin.com/in/karla-noelia-choque-temo-7ab952443">
 <img src="https://img.shields.io/badge/Instagram-Add%20later-D8B4FE?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
 

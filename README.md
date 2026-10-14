@@ -8,16 +8,16 @@
 <br/>
 
 <a href="https://github.com/noeliachoque-dev">
-<img src="https://img.shields.io/badge/GitHub-noeliachoque--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-noeliachoque--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:noelia.choque.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="www.linkedin.com/in/karla-noelia-choque-temo-7ab952443">
-<img src="https://img.shields.io/badge/LinkedIn-Add%20later-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/karla-noelia-choque-temo-7ab952443/">
+  <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="">
-<img src="https://img.shields.io/badge/Instagram-Add%20later-D8B4FE?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-Add%20later-D8B4FE?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
 
 <br/>

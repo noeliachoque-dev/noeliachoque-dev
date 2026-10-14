@@ -13,10 +13,10 @@
 <a href="mailto:noelia.choque.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="">
+<a href="www.linkedin.com/in/karla-noelia-choque-temo-7ab952443">
 <img src="https://img.shields.io/badge/LinkedIn-Add%20later-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="www.linkedin.com/in/karla-noelia-choque-temo-7ab952443">
+<a href="">
 <img src="https://img.shields.io/badge/Instagram-Add%20later-D8B4FE?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
 
